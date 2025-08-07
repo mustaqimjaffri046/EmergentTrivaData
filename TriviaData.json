@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Showroom A",
+    "description": "High-end cars in Gulberg Greens",
+    "longitude": 73.16533884658588,
+    "latitude": 33.61336691034826,
+    "population": "N/A",
+    "type": "Showrooms"
+  },
+  {
+    "title": "Emergent",
+    "description": "Our Software House",
+    "longitude": 73.05438559712161,
+    "latitude": 33.595522218468865,
+    "population": "N/A",
+    "type": "Showrooms"
+  },
+  {
+    "title": "Educational",
+    "description": "Hangout spot Education",
+    "longitude": 73.16787670602346,
+    "latitude": 33.61287161598694,
+    "population": "N/A",
+    "type": "Educational"
+  },
+  {
+    "title": "Trivia Cafe",
+    "description": "Hangout spot with games",
+    "longitude": 73.16275304142601,
+    "latitude": 33.613489190455965,
+    "population": "N/A",
+    "type": "Trivia"
+  },
+  {
+    "title": "Scan Cafe",
+    "description": "Find Objects with AR",
+    "longitude": 73.16535304142601,
+    "latitude": 33.613539190455965,
+    "population": "N/A",
+    "type": "Interact"
+  }
+
+]
+
