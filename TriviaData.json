@@ -1,44 +1,38 @@
-[
-  {
-    "title": "Showroom A",
-    "description": "High-end cars in Gulberg Greens",
-    "longitude": 73.16533884658588,
-    "latitude": 33.61336691034826,
-    "population": "N/A",
-    "type": "Showrooms"
-  },
-  {
-    "title": "Emergent",
-    "description": "Our Software House",
-    "longitude": 73.05438559712161,
-    "latitude": 33.595522218468865,
-    "population": "N/A",
-    "type": "Showrooms"
-  },
-  {
-    "title": "Educational",
-    "description": "Hangout spot Education",
-    "longitude": 73.16787670602346,
-    "latitude": 33.61287161598694,
-    "population": "N/A",
-    "type": "Educational"
-  },
-  {
-    "title": "Trivia Cafe",
-    "description": "Hangout spot with games",
-    "longitude": 73.16275304142601,
-    "latitude": 33.613489190455965,
-    "population": "N/A",
-    "type": "Trivia"
-  },
-  {
-    "title": "Scan Cafe",
-    "description": "Find Objects with AR",
-    "longitude": 73.16535304142601,
-    "latitude": 33.613539190455965,
-    "population": "N/A",
-    "type": "Interact"
-  }
-
-]
-
+{
+  "subjects": [
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "icon": "math_icon",
+      "quizzes": [
+        {
+          "quizName": "Basic Algebra",
+          "description": "Algebraic equations and variables",
+          "questions": [
+            {
+              "type": "single",
+              "question": "What is 2 + 2?",
+              "options": ["3", "4", "5", "6"],
+              "answer": "4",
+              "points": 10
+            },
+            {
+              "type": "image_bool",
+              "question": "Is this image a triangle?",
+              "imagePath": "Images/triangle.png",
+              "answer": "true",
+              "points": 5
+            },
+            {
+              "type": "multi",
+              "question": "Which of these are prime numbers?",
+              "options": ["2", "4", "5", "6"],
+              "answers": ["2", "5"],
+              "points": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
