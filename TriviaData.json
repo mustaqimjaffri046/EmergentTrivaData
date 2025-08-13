@@ -83,52 +83,6 @@
       ]
     },
     {
-      "id": "cleveland_browns",
-      "name": "Cleveland Browns",
-      "icon": "football_icon",
-      "quizzes": [
-        {
-          "quizName": "Browns History & Facts",
-          "description": "Test your knowledge of Cleveland Browns football",
-          "questions": [
-            {
-              "type": "single",
-              "question": "What year were the Cleveland Browns founded?",
-              "options": ["1946", "1950", "1952", "1960"],
-              "answer": "1946",
-              "points": 10,
-              "explanation": "The Cleveland Browns were founded in 1946 as a charter member of the All-America Football Conference (AAFC)."
-            },
-            {
-              "type": "single",
-              "question": "Who is the Browns' franchise named after?",
-              "options": ["A former player", "The team's first coach", "The team colors", "A local businessman"],
-              "answer": "The team's first coach",
-              "points": 15,
-              "explanation": "The Browns are named after their first head coach, Paul Brown, who coached the team from 1946-1962."
-            },
-            {
-              "type": "single",
-              "question": "How many NFL Championships did the Browns win before the Super Bowl era?",
-              "options": ["2", "3", "4", "5"],
-              "answer": "4",
-              "points": 20,
-              "explanation": "The Browns won NFL Championships in 1950, 1954, 1955, and 1964, before the Super Bowl era began in 1967."
-            },
-            {
-              "type": "multi",
-              "question": "Which of these players are in the Browns Ring of Honor?",
-              "options": ["Jim Brown", "Otto Graham", "Bernie Kosar", "Clay Matthews"],
-              "answers": ["Jim Brown", "Otto Graham", "Bernie Kosar", "Clay Matthews"],
-              "points": 25,
-              "explanation": "All four players are honored in the Browns Ring of Honor for their significant contributions to the franchise's history."
-            }
-          ]
-        }
-      ]
-    }
-    },
-    {
       "id": "chrysler_jeep",
       "name": "Automotive",
       "icon": "car_icon",
@@ -175,8 +129,3 @@
     }
   ]
 }
-
-
-
-
-
