@@ -20,7 +20,7 @@
             {
               "type": "image_bool",
               "question": "Is this image a triangle?",
-              "imagePath": "Images/triangle.png",
+              "imagePath": "https://img.icons8.com/?size=80&id=_Q7tbZr4fEYK&format=png",
               "answer": "true",
               "points": 5,
               "explanation": "The image clearly shows a three-sided polygon, which is a triangle."
@@ -175,6 +175,7 @@
     }
   ]
 }
+
 
 
 
