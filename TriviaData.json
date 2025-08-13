@@ -40,8 +40,7 @@
     {
       "id": "cleveland_browns",
       "name": "Sports",
-      "icon": "https://cdn3.iconfinder.com/data/icons/sports-games-10/20/American_football_football_game_nfl_helmet_play_sports-1024.png",
-     
+      "icon": "https://mypcp.us/assets/images/unity/sports.png",     
       "quizzes": [
         {
           "quizName": "Browns History & Facts",
@@ -82,7 +81,53 @@
           ]
         }
       ]
+    },
+    {
+      "id": "chrysler_jeep",
+      "name": "Automotive",
+      "icon": "https://mypcp.us/assets/images/unity/auto.png",
+      "quizzes": [
+        {
+          "quizName": "Chrysler & Jeep Heritage",
+          "description": "Test your knowledge of Chrysler and Jeep automotive history",
+          "questions": [
+            {
+              "type": "single",
+              "question": "What year was the Chrysler Corporation founded?",
+              "options": ["1920", "1925", "1930", "1935"],
+              "answer": "1925",
+              "points": 10,
+              "explanation": "Chrysler Corporation was founded by Walter Chrysler in 1925, becoming one of the 'Big Three' American automakers."
+            },
+            {
+              "type": "single",
+              "question": "Which military vehicle made Jeep famous during World War II?",
+              "options": ["Willys MB", "Ford GPW", "Bantam BRC", "All of the above"],
+              "answer": "All of the above",
+              "points": 15,
+              "explanation": "The Willys MB, Ford GPW, and Bantam BRC were all versions of the military jeep used in WWII, with Willys and Ford producing the most units."
+            },
+            {
+              "type": "single",
+              "question": "What does the 'SRT' stand for in Chrysler's high-performance division?",
+              "options": ["Street Racing Technology", "Street and Racing Technology", "Super Racing Team", "Speed Racing Technology"],
+              "answer": "Street and Racing Technology",
+              "points": 20,
+              "explanation": "SRT stands for 'Street and Racing Technology,' Chrysler's performance division that develops high-performance versions of their vehicles."
+            },
+            {
+              "type": "multi",
+              "question": "Which of these are current Jeep model names?",
+              "options": ["Wrangler", "Cherokee", "Compass", "Patriot"],
+              "answers": ["Wrangler", "Cherokee", "Compass"],
+              "points": 25,
+              "explanation": "Wrangler, Cherokee, and Compass are current Jeep models. The Patriot was discontinued in 2017 and replaced by the Compass."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
+
 
