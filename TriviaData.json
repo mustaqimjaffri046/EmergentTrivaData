@@ -40,7 +40,7 @@
     {
       "id": "cleveland_browns",
       "name": "Sports",
-      "icon": "football_icon",
+      "icon": "https://cdn3.iconfinder.com/data/icons/sports-games-10/20/American_football_football_game_nfl_helmet_play_sports-1024.png",
       "quizzes": [
         {
           "quizName": "Browns History & Facts",
@@ -175,5 +175,6 @@
     }
   ]
 }
+
 
 
