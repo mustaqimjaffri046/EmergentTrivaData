@@ -3,7 +3,7 @@
     {
       "id": "math",
       "name": "Mathematics",
-      "icon": "math_icon",
+      "icon": "https://img.icons8.com/ios-filled/50/football2.png",
       "quizzes": [
         {
           "quizName": "Basic Algebra",
@@ -20,7 +20,7 @@
             {
               "type": "image_bool",
               "question": "Is this image a triangle?",
-              "imagePath": "Images/triangle.png",
+              "imagePath": "https://img.icons8.com/?size=80&id=_Q7tbZr4fEYK&format=png",
               "answer": "true",
               "points": 5,
               "explanation": "The image clearly shows a three-sided polygon, which is a triangle."
@@ -39,8 +39,9 @@
     },
     {
       "id": "cleveland_browns",
-      "name": "Cleveland Browns",
-      "icon": "football_icon",
+      "name": "Sports",
+      "icon": "https://cdn3.iconfinder.com/data/icons/sports-games-10/20/American_football_football_game_nfl_helmet_play_sports-1024.png",
+     
       "quizzes": [
         {
           "quizName": "Browns History & Facts",
